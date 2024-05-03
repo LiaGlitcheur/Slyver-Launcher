@@ -1,6 +1,6 @@
 # Microsoft Authentication
 
-Authenticating with Microsoft is fully supported by Helios Launcher.
+Authenticating with Microsoft is fully supported by Slyver Launcher.
 
 ## Acquiring an Azure Client ID
 

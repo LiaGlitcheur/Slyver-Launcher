@@ -1,5 +1,5 @@
 appId: 'slyverlauncher'
-productName: 'Slyver Launcher'
+productName: 'Slyver-Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2022-2024 Liam Quatrevaux'
@@ -39,8 +39,8 @@ mac:
 # Linux Configuration
 linux: 
   target: 'AppImage'
-  maintainer: 'Liam Quatrevaux'
-  vendor: 'Liam Quatrevaux'
+  maintainer: 'Liam Quatrevaux '
+  vendor: 'Liam Quatrevaux et dscalzi'
   synopsis: 'Un launcher minecraft moddé'
   description: 'Lanceur personnalisé qui permet aux utilisateurs de rejoindre des serveurs modifiés. Tous les mods, configurations et mises à jour sont gérés automatiquement.'
   category: 'Game'
