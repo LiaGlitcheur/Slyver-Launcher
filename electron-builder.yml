@@ -2,7 +2,7 @@ appId: 'slyverlauncher'
 productName: 'Slyver'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2022-2024 Liam Quatrevaux'
+copyright: 'Copyright © 2022-2026 Liam Quatrevaux'
 
 asar: true
 compression: 'maximum'
