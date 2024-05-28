@@ -1,17 +1,17 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Slyver Launcher"
+title = "Slyver"
 
 [ejs.landing]
-mediaGitHubURL = "#"
+mediaGitHubURL = "https://github.com/LiaGlitcheur/Slyver-Launcher"
 mediaTwitterURL = "https://twitter.com/Lia_Glitcheur"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "https://www.youtube.com/channel/UC5hKWWtjQoUfUTUNGsQDSPg"
 mediaDiscordURL = "https://discord.gg/cYMx5962Bu"
 
 [ejs.settings]
-sourceGithubLink = "#"
+sourceGithubLink = "https://github.com/LiaGlitcheur/Slyver-Launcher"
 supportLink = "https://discord.gg/EcYVhYHm9b"
 
 [ejs.welcome]
