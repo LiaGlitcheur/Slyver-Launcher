@@ -35,6 +35,7 @@ mac:
         - 'arm64'
   artifactName: '${productName}-setup-${version}-${arch}.${ext}'
   category: 'public.app-category.games'
+  identity: 'certificat/votreCertificat.p12'
 
 # Linux Configuration
 linux: 
